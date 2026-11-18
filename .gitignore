@@ -1,0 +1,9 @@
+k8s-assessment-*/
+k8s-assessment-*.tar.gz
+kube-bench/
+*.log
+.env
+.env.*
+kubeconfig
+kubeconfig.*
+.kube/
