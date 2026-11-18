@@ -1,0 +1,9 @@
+{
+  "all_namespaces": [
+    "demo-app",
+    "sandbox"
+  ],
+  "namespaces_without_any_networkpolicy": [
+    "sandbox"
+  ]
+}
